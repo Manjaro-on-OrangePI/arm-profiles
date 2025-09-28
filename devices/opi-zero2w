@@ -1,0 +1,13 @@
+# Kernel and bootloader stuff
+linux-opi-zero3
+linux-opi-zero3-headers
+uboot-opi-zero3
+# Video drivers
+# xf86-video-fbdev
+
+# Other device specific packages
+crda
+wpa_supplicant
+uwe5622-firmware-new
+generic-post-install
+opi4lts-post-install
